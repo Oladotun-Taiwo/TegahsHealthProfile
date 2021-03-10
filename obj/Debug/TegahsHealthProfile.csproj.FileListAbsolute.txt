@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\TegahsHealthProfile\bin\Debug\TegahsHealthProfile.exe.config
+C:\Users\DELL\source\repos\TegahsHealthProfile\bin\Debug\TegahsHealthProfile.exe
+C:\Users\DELL\source\repos\TegahsHealthProfile\bin\Debug\TegahsHealthProfile.pdb
+C:\Users\DELL\source\repos\TegahsHealthProfile\obj\Debug\TegahsHealthProfile.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TegahsHealthProfile\obj\Debug\TegahsHealthProfile.exe
+C:\Users\DELL\source\repos\TegahsHealthProfile\obj\Debug\TegahsHealthProfile.pdb
